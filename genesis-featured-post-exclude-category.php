@@ -1,6 +1,7 @@
 <?php
 /*
-Plugin Name: Genesis Featured Post Exclude Category
+Plugin Name: Featured Post Exclude Category for Genesis
+Tags: Genesis, featured post, widget
 Description: Adds features to the featured post widget
 Author: scott.deluzio
 Author URI: http://scottdeluzio.com/

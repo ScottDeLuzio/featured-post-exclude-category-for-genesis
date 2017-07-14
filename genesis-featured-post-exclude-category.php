@@ -2,7 +2,7 @@
 /*
 Plugin Name: Featured Post Exclude Category for Genesis
 Tags: Genesis, featured post, widget
-Description: Adds features to the featured post widget
+Description: Adds features to the featured post widget for Genesis
 Author: scott.deluzio
 Author URI: http://scottdeluzio.com/
 Version: 1.0

@@ -1,4 +1,4 @@
-=== Genesis Featured Post Exclude Category ===
+=== Featured Post Exclude Category for Genesis ===
 Contributors: scottdeluzio
 Requires at least: 4.4
 Tested up to: 4.8

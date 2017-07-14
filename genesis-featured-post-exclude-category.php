@@ -162,7 +162,7 @@ class SD_Genesis_Featured_Post_Exclude extends WP_Widget {
 
 				if ( ! empty( $instance['show_title'] ) ) {
 
-					$title = get_the_title() ? get_the_title() . var_dump( $query_args['cat'] ) : __( '(no title)', 'genesis' );
+					$title = get_the_title() ? get_the_title() : __( '(no title)', 'genesis' );
 
 					/**
 					 * Filter the featured post widget title.

@@ -3,9 +3,9 @@
 Plugin Name: Featured Post Exclude Category for Genesis
 Tags: Genesis, featured post, widget
 Description: Adds features to the featured post widget for Genesis
-Author: scott.deluzio
+Author: Scott DeLuzio
 Author URI: http://scottdeluzio.com/
-Version: 1.0
+Version: 1.0.1
 License: GPL version 2 or later - http://www.gnu.org/licenses/old-licenses/gpl-2.0.html
 */
 
@@ -13,7 +13,7 @@ add_action( 'widgets_init', 'gfpe_load_widgets' );
 /**
  * Register widgets for use in the Genesis theme.
  *
- * @since 1.7.0
+ * @since 1.0
  */
 function gfpe_load_widgets() {
 
@@ -32,7 +32,7 @@ class SD_Genesis_Featured_Post_Exclude extends WP_Widget {
 	/**
 	 * Constructor. Set the default widget options and create widget.
 	 *
-	 * @since 0.1.8
+	 * @since 1.0
 	 */
 	public function __construct() {
 
@@ -80,7 +80,7 @@ class SD_Genesis_Featured_Post_Exclude extends WP_Widget {
 	/**
 	 * Echo the widget content.
 	 *
-	 * @since 0.1.8
+	 * @since 1.0
 	 *
 	 * @global WP_Query $wp_query               Query object.
 	 * @global array    $_genesis_displayed_ids Array of displayed post IDs.
@@ -168,7 +168,7 @@ class SD_Genesis_Featured_Post_Exclude extends WP_Widget {
 					/**
 					 * Filter the featured post widget title.
 					 *
-					 * @since  2.2.0
+					 * @since  1.0
 					 *
 					 * @param string $title    Featured post title.
 					 * @param array  $instance {
@@ -368,7 +368,7 @@ class SD_Genesis_Featured_Post_Exclude extends WP_Widget {
 	 * The newly calculated value of $instance should be returned.
 	 * If "false" is returned, the instance won't be saved/updated.
 	 *
-	 * @since 0.1.8
+	 * @since 1.0
 	 *
 	 * @param array $new_instance New settings for this instance as input by the user via `form()`.
 	 * @param array $old_instance Old settings for this instance.
@@ -388,7 +388,7 @@ class SD_Genesis_Featured_Post_Exclude extends WP_Widget {
 	/**
 	 * Echo the settings update form.
 	 *
-	 * @since 0.1.8
+	 * @since 1.0
 	 *
 	 * @param array $instance Current settings.
 	 * @return void

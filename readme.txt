@@ -4,7 +4,7 @@ Tags: Genesis, widget, featured posts, Genesis WP, StudioPress
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=GNEPCVGYSG7ZJ
 Requires at least: 4.4
 Tested up to: 5.0.3
-Stable tag: 1.0
+Stable tag: 1.0.2
 License: GPL v2+
 License URI: http://www.gnu.org/licenses/old-licenses/gpl-2.0.html
 
@@ -49,6 +49,9 @@ If you select All Categories, you may want to exclude one. You can easily do thi
 The rest of the widget settings are identical to the default Genesis Featured Posts widget.
 
 == Changelog ==
+= 1.0.2 =
+* Fixed formatting in code.
+
 = 1.0.1 =
 * Updated inline documentation and bumped tested up to version.
 
@@ -56,5 +59,5 @@ The rest of the widget settings are identical to the default Genesis Featured Po
 * Initial release
 
 == Upgrade Notice ==
-= 1.0.1 =
-* Updated inline documentation and bumped tested up to version.
+= 1.0.2 =
+* Fixed formatting in code.

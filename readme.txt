@@ -11,7 +11,7 @@ License URI: http://www.gnu.org/licenses/old-licenses/gpl-2.0.html
 A new featured posts widget for Genesis themes that allows you to exclude a category when selecting All Categories in the featured post widget.
 
 == Description ==
-The default Genesis Featured Post widget is great, except you only have the option to include all categories or a specific category. You can exclude previously displayed posts or "sticky" posts, but you can\'t exclude all posts in a specific category.
+The default Genesis Featured Post widget is great, except you only have the option to include all categories or a specific category. You can exclude previously displayed posts or "sticky" posts, but you can't exclude all posts in a specific category.
 
 This plugin was created out of a need to show all but one category in the featured post widget.
 

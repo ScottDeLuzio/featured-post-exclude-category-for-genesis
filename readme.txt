@@ -3,7 +3,7 @@ Contributors: scott.deluzio
 Tags: Genesis, widget, featured posts, Genesis WP, StudioPress
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=GNEPCVGYSG7ZJ
 Requires at least: 4.4
-Tested up to: 5.0.3
+Tested up to: 5.2.0
 Stable tag: 1.0.2
 License: GPL v2+
 License URI: http://www.gnu.org/licenses/old-licenses/gpl-2.0.html

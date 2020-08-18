@@ -5,7 +5,7 @@ Tags: Genesis, featured post, widget
 Description: Adds features to the featured post widget for Genesis
 Author: Scott DeLuzio
 Author URI: http://scottdeluzio.com/
-Version: 1.0.2
+Version: 1.0.3
 License: GPL version 2 or later - http://www.gnu.org/licenses/old-licenses/gpl-2.0.html
 */
 

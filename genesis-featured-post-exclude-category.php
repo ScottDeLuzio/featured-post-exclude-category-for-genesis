@@ -5,7 +5,9 @@ Tags: Genesis, featured post, widget
 Description: Adds features to the featured post widget for Genesis
 Author: AMP-MODE
 Author URI: https://amplifyplugins.com/
-Version: 1.0.4
+Tested up to: 6.0.1
+Version: 1.0.5
+WC tested up to: 6.7.0
 License: GPL version 2 or later - http://www.gnu.org/licenses/old-licenses/gpl-2.0.html
 */
 
